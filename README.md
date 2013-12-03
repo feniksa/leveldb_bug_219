@@ -2,6 +2,7 @@ leveldb_bug_219
 ===============
 
 This repository contain simple program to reproduce crash of leveldb, when not enough disk space.
+See https://code.google.com/p/leveldb/issues/detail?id=219
 
 ===============
 # Required:
